@@ -1,0 +1,150 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("maseru.jpg");
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width: 250px;
+}
+#box {
+  display: flex;
+  justify-content: center;
+}
+
+#display1 {
+  padding: 1em;
+  height: 300px;
+  width: 400px;
+  border: 3px solid #c3c3c3;
+  margin: 0 5px;
+  font-size: 1.3rem;
+  text-color: white;
+  font-family: "Trebuchet MS", sans-serif;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-image: url("mk.jpg");
+  background-color: #fdfdfd;
+}
+#picture {
+  height: 800px;
+  width: 400px;
+}
+
+#display img {
+  height: 80px;
+  border-radius: 10px;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+}
+
+#btn1 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: -2px;
+  right: -230px;
+  position: relative;
+}
+
+#btn1:hover {
+  background-color: #1a6588;
+}
+
+#btn2 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: 50px;
+  right: -90px;
+  position: relative;
+}
+
+#btn2:hover {
+  background-color: #1a6588;
+}
+
+#btn3 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: 100px;
+  right: 95px;
+  position: relative;
+}
+
+#btn3:hover {
+  background-color: #1a6588;
+}
+
+#btn4 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: -2px;
+  right: -50px;
+  position: relative;
+}
+
+#btn4:hover {
+  background-color: #1a6588;
+}
+
+#btn5 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: 50px;
+  right: 85px;
+  position: relative;
+}
+
+#btn5:hover {
+  background-color: #1a6588;
+}
+
+#btn6 {
+  display: inline-block;
+  background-color: white;
+  border: 2px solid #261297;
+  border-radius: 30px;
+  padding: 10px 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  top: 110px;
+  right: 220px;
+  position: relative;
+}
+
+#btn6:hover {
+  background-color: #1a6588;
+}
